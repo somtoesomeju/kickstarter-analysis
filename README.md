@@ -21,13 +21,14 @@ So far I did not encounter any error when I used the proper commands to excecute
 
 ## Results
 
-- Conclusions from the launch date
+- Conclusions from the launch date:
 From the outcomes based on launch date, the two things that can be concluded from the graph is that the most successful theatre campaigns happened in the summer months (June and July) and the least successful campaigns happened in the winter. There is a positive association between the time of the year and how sucessful the campaign is. In the winter months (December and January), the outcomes are almost the same. This concludes that campaigns launched in the summer are the most successful, while the ones launched in the winter are more likely to fail.
 
-- Conclusion of the outcomes based on goals
+- Conclusion of the outcomes based on goals:
 From the line chart, there is a trend between the amount of the goal and its success rate. The lower the goal amount of the play, the more likely it is to succeed. 
 
-- Limitations
+- Limitations:
 One of the main limitations with the dataset is from the "canceled" column in "Outcomes Based on Goals" analysis. I did not get any numbers in the canceled column as there are no cancelled plays. If there was data for canceled plays it would have deepened the analysis and might have given a better idea of the trends. 
 
-- Alternative tables/graphs for analysis. In addition to the line graph, a stacked bar chart (https://github.com/somtoesomeju/kickstarter-analysis/blob/main/outcomes_vs_launch_stackedbar.png) could be created for the outcomes against the launch date. The stacked bar would better visualize the trend as opposed to the line graph. It is easier to see that the campaigns are most successful during the summer months. 
+- Alternative tables/graphs for analysis:
+ In addition to the line graph, a stacked bar chart (https://github.com/somtoesomeju/kickstarter-analysis/blob/main/outcomes_vs_launch_stackedbar.png) could be created for the outcomes against the launch date. The stacked bar would better visualize the trend as opposed to the line graph. It is easier to see that the campaigns are most successful during the summer months. 
